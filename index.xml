@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>董昊</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on 董昊</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 08 Aug 2025 03:20:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>奖状</title>
+        <link>http://localhost:1313/p/%E5%A5%96%E7%8A%B6/</link>
+        <pubDate>Fri, 08 Aug 2025 03:20:16 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%A5%96%E7%8A%B6/</guid>
+        <description>&lt;img src=&#34;http://localhost:1313/images/074659e6eb4e00fd2f29474bb3dde14a_0.webp&#34; class=&#34;custom-class&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/93322144b771c8acc2e5f3d5ed57ee88_0.webp&#34; class=&#34;custom-class&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/3bd09b941634e97f74592c8dad91331d_720.webp&#34; class=&#34;custom-class&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/a78f06d93836f4011225b475aed6f8a5_0.webp&#34; class=&#34;custom-class&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/0d092118fe85fb9c73150cbe0c8a35d5_0.jpg&#34; class=&#34;custom-class&#34;&gt;</description>
+        </item>
+        <item>
+        <title>开源网站</title>
+        <link>http://localhost:1313/p/%E5%BC%80%E6%BA%90%E7%BD%91%E7%AB%99/</link>
+        <pubDate>Fri, 08 Aug 2025 03:20:16 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%BC%80%E6%BA%90%E7%BD%91%E7%AB%99/</guid>
+        <description>&lt;p&gt;这是我第一个开源网站，网站有董昊亲手搭建，采用github开源项目。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>http://localhost:1313/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;来自：贵州省遵义市赤水市&lt;/p&gt;
+&lt;p&gt;学校：赤水市第三中学&lt;/p&gt;
+&lt;p&gt;QQ：2196246589  QQ邮箱：happy1at@qq.com&lt;/p&gt;
+&lt;p&gt;电话/微信：15120131648&lt;/p&gt;
+&lt;p&gt;未成年&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>档案</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description>&lt;p&gt;这是&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>http://localhost:1313/%E6%90%9C%E7%B4%A2/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E6%90%9C%E7%B4%A2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>链接</title>
+        <link>http://localhost:1313/%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/%E9%93%BE%E6%8E%A5/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
